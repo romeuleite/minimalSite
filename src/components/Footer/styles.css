@@ -1,0 +1,22 @@
+.footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.media-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+}
+
+.footer-rights {
+    font-size: 14px;
+    line-height: 50%;
+    color: white;
+    opacity: 50%;
+    margin-bottom: 1;
+}

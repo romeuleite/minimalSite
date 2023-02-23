@@ -1,0 +1,26 @@
+.intro-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.text-name {
+    font-size: 64px;
+    line-height: 50%;
+    color: white;
+    font-weight: bold;
+}
+
+.text-title {
+    font-size: 20px;
+    color: white;
+}
+
+.text-description {
+    max-width: 576px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
