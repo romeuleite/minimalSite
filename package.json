@@ -1,15 +1,15 @@
 {
   "name": "minimal-portifolio",
-  "homepage": "https://romeuleite.github.io/portifolio",
+  "homepage": "https://romeuleite.github.io/portifolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
